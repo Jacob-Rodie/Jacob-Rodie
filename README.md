@@ -1,4 +1,4 @@
-# Hi, I'm Jacob Rodie 👋
+# Hi, I'm Jacob 👋
 
 I'm an aspiring IT Support / Help Desk professional building hands-on
 experience through practical IT labs and troubleshooting projects.
