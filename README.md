@@ -18,7 +18,7 @@ Windows Server • User & Group Management • Account Administration • Group 
 ### 🌐 Network Traffic Analysis & Troubleshooting
 Wireshark • TCP/IP • DNS • ICMP • Connectivity Testing
 
-[View Project](...)
+[View Project](https://github.com/Jacob-Rodie/network-traffic-analysis)
 
 ---
 
