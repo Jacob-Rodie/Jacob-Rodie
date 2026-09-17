@@ -27,6 +27,6 @@ troubleshoot, and what I learn while building hands-on IT support experience.
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
 
 [linkedin]:([https://www.linkedin.com/in/jacob-rodie-b2772740b/)
