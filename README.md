@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jacob, an <a href="https://www.linkedin.com/in/jacob-rodie-b2772740b/">IT Professional</a>!</h1>
+<h1>Hi, I'm Jacob, an <a href="https://www.linkedin.com/in/jacob-rodie-b2772740b/">A aspiring IT support specialist</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
