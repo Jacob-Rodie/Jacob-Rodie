@@ -29,4 +29,4 @@ troubleshoot, and what I learn while building hands-on IT support experience.
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [https://www.linkedin.com/in/jacob-rodie-b2772740b/
+[linkedin]:([https://www.linkedin.com/in/jacob-rodie-b2772740b/)
