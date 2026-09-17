@@ -10,13 +10,13 @@ Deployment • Configuration • Ticket Lifecycle • Troubleshooting
 
 [View Project](https://github.com/Jacob-Rodie/osTicket-help-desk-lab)
 
-### 👥 Active Directory
-User Management • Account Administration • Group Policy • Windows Server
+### 👥 Active Directory User Management & Administration
+Windows Server • User & Group Management • Account Administration • Group Policy
 
 [View Project](...)
 
-### 🌐 Network Troubleshooting Lab
-Wireshark • TCP/IP • DNS • ICMP • Connectivity Troubleshooting
+### 🌐 Network Traffic Analysis & Troubleshooting
+Wireshark • TCP/IP • DNS • ICMP • Connectivity Testing
 
 [View Project](...)
 
