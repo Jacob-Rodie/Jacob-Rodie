@@ -5,12 +5,12 @@ experience through practical IT labs and troubleshooting projects.
 
 ## 🖥️ IT Support Projects
 
-### 🎫 osTicket Help Desk Lab
+### 🎫 osTicket Help Desk
 Deployment • Configuration • Ticket Lifecycle • Troubleshooting
 
 [View Project](https://github.com/Jacob-Rodie/osTicket-help-desk-lab)
 
-### 👥 Active Directory Lab
+### 👥 Active Directory
 User Management • Account Administration • Group Policy • Windows Server
 
 [View Project](...)
