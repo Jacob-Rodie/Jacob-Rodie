@@ -25,6 +25,17 @@ Wireshark • TCP/IP • DNS • ICMP • Connectivity Testing
 These projects document the environments I configure, the problems I
 troubleshoot, and what I learn while building hands-on IT support experience.
 
-## 📫 Connect With Me
+<h2>🤳Connect with me:</h2>
 
-[linkedin]: (https://www.linkedin.com/in/jacob-rodie-b2772740b/)
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: [https://www.linkedin.com/in/jacob-rodie-b2772740b/
+[facebook]: https://www.facebook.com/
+
+
+
+
