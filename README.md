@@ -27,4 +27,4 @@ troubleshoot, and what I learn while building hands-on IT support experience.
 
 ## 📫 Connect With Me
 
-[linkedin]:(https://www.linkedin.com/in/jacob-rodie-b2772740b/)
+[linkedin]: (https://www.linkedin.com/in/jacob-rodie-b2772740b/)
