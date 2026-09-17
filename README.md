@@ -8,7 +8,7 @@ experience through practical IT labs and troubleshooting projects.
 ### 🎫 osTicket Help Desk Lab
 Deployment • Configuration • Ticket Lifecycle • Troubleshooting
 
-[View Project](...)
+[View Project](https://github.com/Jacob-Rodie/osTicket-help-desk-lab)
 
 ### 👥 Active Directory Lab
 User Management • Account Administration • Group Policy • Windows Server
