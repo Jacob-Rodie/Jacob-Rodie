@@ -3,12 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jacobrodie/osTicket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/jacobrodie/osTicket-Post-Installation-Configuration/blob/main/README.md)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jacobrodie/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/jacobrodie/osTicket-Prerequisites-and-Installation) wip
+  - [osTicket: Post-Installation Configuration](https://github.com/jacobrodie/osTicket-Post-Installation-Configuration/blob/main/README.md) wip
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jacobrodie/ticket-lifecycle) wip
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/jacobrodie/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jacobrodie/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/jacobrodie/On-premises-Active-Directory-Deployed-in-the-Cloud-Azure-) wip
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jacobrodie/azure-network-protocols) wip
 
 <h2>🤳Connect with me:</h2>
 
