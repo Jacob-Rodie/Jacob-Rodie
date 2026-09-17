@@ -13,7 +13,7 @@ Deployment • Configuration • Ticket Lifecycle • Troubleshooting
 ### 👥 Active Directory User Management & Administration
 Windows Server • User & Group Management • Account Administration • Group Policy
 
-[View Project](...)
+[View Project](https://github.com/Jacob-Rodie/active-directory-user-management/edit/main/README.md)
 
 ### 🌐 Network Traffic Analysis & Troubleshooting
 Wireshark • TCP/IP • DNS • ICMP • Connectivity Testing
