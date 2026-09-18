@@ -1,4 +1,4 @@
-# Hi, I'm Jacob 👋 <a href="[https://www.linkedin.com/in/jacob-rodie-b2772740b/]"> an aspiring IT Support specialist
+# Hi, I'm Jacob 👋 <a href="[https://www.linkedin.com/in/jacob-rodie-b2772740b/]">An aspiring IT Support specialist
 
 I'm an aspiring IT Support / Help Desk specialist building hands-on
 experience through practical IT labs and troubleshooting projects.
